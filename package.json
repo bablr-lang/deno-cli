@@ -21,7 +21,7 @@
     "@bablr/agast-vm-helpers": "^0.5.0",
     "@bablr/io-vm-node": "0.4.0",
     "@bablr/boot": "^0.6.0",
-    "@bablr/coroutine": "1.0.0",
+    "@bablr/coroutine": "1.0.1",
     "@bablr/helpers": "^0.20.5",
     "@bablr/language-en-cstml": "^0.7.0",
     "@bablr/language-en-bablr-cli-verbose-output": "0.4.0",
